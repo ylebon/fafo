@@ -7,6 +7,11 @@ GitHub captured a snapshot of every active public repository on 02/02/2020 and p
 # Example
 A little taste: Link posted in a private personal whatsapp end-to-end conversation accessed by IP adresses from China and US with a "Digital Ocean" machines
 
+# Prerequisite
+- "A journal is a written record of incidents, experiences, and ideas. Also known as a personal journal notebook, diary, and log. Writers often keep journals to record observations and explore ideas that may
+eventually be developed into more formal essays, articles, and stories. "The personal journal is a very
+private document" says Brian ..." - https://www.thoughtco.com/what-is-a-journal-1691206
+
 # Characters
 
 # Countries
