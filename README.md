@@ -25,7 +25,7 @@ Out of curiosity: Who is supposed to sanction EU if there is a poisoning attempt
 
 - "As nouns the difference between persecutor and prosecutor is that persecutor is a person or thing that persecutes or harasses while prosecutor is a lawyer who decides whether to charge a person with a crime and tries to prove in court that the person is guilty." - https://wikidiff.com/prosecutor/persecutor
 
-In some cases prosecutor can be also a persecutor, when prosecutor exploit laws and his/her network in both world (ying and yang) to harass someone so he/her stays on governement payroll or for job promotion. For example: exploiting EU law about disease (COVID), exploiting EU laws about nationalities, exploiting laws in the countries you visit if you are travelling, etc
+In some cases prosecutor can be also a persecutor, when prosecutor exploits laws and his/her network in both worlds (ying and yang) to harass someone so he/her stays on governement payroll or for job promotion. For example: exploiting EU law about disease (COVID), exploiting EU laws about nationalities, exploiting laws in the countries you visit if you are travelling, etc
 
 
 
