@@ -27,6 +27,7 @@ Out of curiosity: Who is supposed to sanction EU if there is a poisoning attempt
 
 In some cases prosecutor can be also a persecutor, when prosecutor exploits laws and his/her network in both worlds (ying and yang) to harass someone so he/her stays on governement payroll or for job promotion. For example: exploiting EU law about disease (COVID), exploiting EU laws about nationalities, exploiting laws in the countries you visit if you are travelling, etc
 
+- "The couple met when Emmanuel was only 15 years old ... It is often said that Emmanuel developed very warm feelings for his teacher, and the two started a relationship, which adds that the sexual minimum age in France is 15 years. Thus, nothing illegal should have taken place." - https://timespek.com/love-story-emmanuel-and-brigitte-macron/
 
 
 # Characters
