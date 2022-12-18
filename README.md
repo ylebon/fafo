@@ -29,6 +29,10 @@ In some cases prosecutor can be also a persecutor, when prosecutor exploits laws
 
 - "The couple met when Emmanuel was only 15 years old ... It is often said that Emmanuel developed very warm feelings for his teacher, and the two started a relationship, which adds that the sexual minimum age in France is 15 years. Thus, nothing illegal should have taken place." - https://timespek.com/love-story-emmanuel-and-brigitte-macron/
 
+- "The U.S. Food and Drug Administration (FDA) has announced that new evidence has emerged linking Pfizer Covid shots to blood clotting, according to reports." - https://ussanews.com/2022/12/17/fda-pfizers-covid-shots-linked-to-blood-clotting/
+
+If there is a blood clotting in the head, an assault with a blow on the head is the first explanation.
+
 
 # Characters
 
