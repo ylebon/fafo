@@ -31,7 +31,7 @@ In some cases prosecutor can be also a persecutor, when prosecutor exploits laws
 
 - "The U.S. Food and Drug Administration (FDA) has announced that new evidence has emerged linking Pfizer Covid shots to blood clotting, according to reports." - https://ussanews.com/2022/12/17/fda-pfizers-covid-shots-linked-to-blood-clotting/
 
-If there is a blood clotting in the brain, an assault with a blow on the head (left side) is the first explanation (was a welcome message in Madagascar, may be). An assault than resulted in a little scar (left eyebrow)
+If there is a blood clotting in the brain, an assault with a blow on the head (left side) is the first explanation (was a welcome message in Madagascar, may be). An assault that resulted in a little scar (left eyebrow)
 
 
 # Characters
