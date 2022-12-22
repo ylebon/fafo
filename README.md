@@ -46,7 +46,18 @@ Scenario: Show all the people in the contacts list
   Then "I will see all the entries in the vespa contacts"
 ```
 
-
+### 2. User story: As a user I want to add a new entry in the Vespa contacts
+```
+Scenario: Add another use in my contacts
+  Given "All the requirements are satisfied and installed"
+  When "I run `python3 vespa_contacts add <name>`"
+  Then "I will add a new entry in my contacts"
+  
+Example:
+  python3 vespa_contacts add samu
+  python3 vespa_contacts add gendarmerie
+  python3 vespa_contacts add carrefour
+```
 
 
 # Characters
