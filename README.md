@@ -43,7 +43,7 @@ Let's write a command line contacts utility tool written in Python that we will 
 Scenario: Show all the people in the contacts list
   Given "All the requirements are satisfied and installed"
   When "I run `python3 vespa_contacts list`"
-  Then "I will see all the names in the contacts list"
+  Then "I will see all the entries in the vespa contacts"
 ```
 
 
