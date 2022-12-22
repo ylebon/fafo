@@ -40,9 +40,10 @@ Let's write a command line contacts utility tool written in Python that we will 
 
 ### 1. User story: As a user I want to see all the entries in the Vespa contacts
 ```
-Given "All the requirements are satisfied and installed"
-When "I run `python3 vespa_contacts list`"
-Then "I will see all the names in the contacts list"
+Scenario: Show all the people in the contacts list
+  Given "All the requirements are satisfied and installed"
+  When "I run `python3 vespa_contacts list`"
+  Then "I will see all the names in the contacts list"
 ```
 
 
