@@ -39,6 +39,11 @@ If there is a blood clotting in the brain, an assault with a blow on the head (l
 Let's write a command line contacts utility tool written in Python that we will call "Vespa contacts" using Scrum:
 
 ### 1. User story: As a user I want to see all the entries in the Vespa contacts
+```
+Given "All the requirements are satisfied and installed"
+When "I run `python3 vespa_contacts list`"
+Then "I will see all the names in the contacts list"
+```
 
 
 
