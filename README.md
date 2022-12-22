@@ -36,6 +36,11 @@ For instance "Pachamama" who works as a legal officer at the Office of the Prose
 If there is a blood clotting in the brain, an assault with a blow on the head (left side) is the first explanation (was a welcome message in Madagascar, may be). An assault that resulted in a little scar (left eyebrow)
 
 # Coding
+Let's write a command line contacts utility tool written in Python that we will call "Vespa contacts" using Scrum:
+
+### 1. User story: As a user I want to see all the entries in the Vespa contacts
+
+
 
 
 # Characters
