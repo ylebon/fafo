@@ -26,13 +26,16 @@ Out of curiosity: Who is supposed to sanction EU if there is a poisoning attempt
 - "As nouns the difference between persecutor and prosecutor is that persecutor is a person or thing that persecutes or harasses while prosecutor is a lawyer who decides whether to charge a person with a crime and tries to prove in court that the person is guilty." - https://wikidiff.com/prosecutor/persecutor
 
 In some cases prosecutor can be also a persecutor, when prosecutor exploits laws and his/her network in both worlds (ying and yang) to harass someone so he/her stays on governement payroll or for job promotion. For example: exploiting EU law about disease (COVID), exploiting EU laws about nationalities, exploiting laws in the countries you visit if you are travelling, etc
-For instance "Pachamama" who works as a legal officer at the Office of the Prosecutor at the United Nations stuidies torture. She can use that knowledge to protect innocents people or in certain case to torture mentally a victim (persecution).
+
+For instance "Pachamama" who works as a legal officer at the Office of the Prosecutor at the United Nations stuidies torture. She can use that knowledge to protect innocents people or in certain case use it to perscute (torture) mentally a victim (persecution, tricks, media, information manipulation, etc).
 
 - "The couple met when Emmanuel was only 15 years old ... It is often said that Emmanuel developed very warm feelings for his teacher, and the two started a relationship, which adds that the sexual minimum age in France is 15 years. Thus, nothing illegal should have taken place." - https://timespek.com/love-story-emmanuel-and-brigitte-macron/
 
 - "The U.S. Food and Drug Administration (FDA) has announced that new evidence has emerged linking Pfizer Covid shots to blood clotting, according to reports." - https://ussanews.com/2022/12/17/fda-pfizers-covid-shots-linked-to-blood-clotting/
 
 If there is a blood clotting in the brain, an assault with a blow on the head (left side) is the first explanation (was a welcome message in Madagascar, may be). An assault that resulted in a little scar (left eyebrow)
+
+# Coding
 
 
 # Characters
