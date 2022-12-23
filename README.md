@@ -59,6 +59,18 @@ Example:
   python3 vespa_contacts add carrefour
 ```
 
+### 3. User story: As a user I want see a contact location (wip)
+```
+Scenario: Add another use in my contacts
+  Given "All the requirements are satisfied and installed"
+  When "I run `python3 vespa_contacts find <name>`"
+  Then "I will see the location of that person"
+  
+Example:
+  python3 vespa_contacts location gaia
+  python3 vespa_contacts location thomas
+```
+
 
 # Characters
 
