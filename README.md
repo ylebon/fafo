@@ -59,7 +59,7 @@ Example:
   python3 vespa_contacts add carrefour
 ```
 
-### 3. User story: As a user I want see a contact location (wip)
+### 3. User story: As a user I want see a contact location
 ```
 Scenario: Add another use in my contacts
   Given "All the requirements are satisfied and installed"
