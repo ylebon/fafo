@@ -3,7 +3,7 @@
 Usage:
   vespa_contacts.py list
   vespa_contacts.py add <name>
-  vespa_contacts.py location <name>
+  vespa_contacts.py find <name>
   vespa_contacts.py (-h | --help)
 
 Examples:
@@ -31,7 +31,7 @@ def add_contact(name):
     CONTACTS[name] = dict()
     list_contacts()
     
-def locate_contact(name):
+def find_contact(name):
     """Return contact location"""
     contact_info = CONTACTS.get(name, {})
     if not contact_info:
@@ -52,6 +52,6 @@ if __name__ == "__main__":
         list_contacts()
     elif arguments.get('add'):
         add_contact(arguments['<name>'])
-    elif arguments.get('locate'):
-        print(locate_contact(arguments['<name>']))
+    elif arguments.get('find'):
+        print(find_contact(arguments['<name>']))
         
