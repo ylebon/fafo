@@ -69,7 +69,7 @@ Scenario: Add another use in my contacts
 Example:
   python3 vespa_contacts find gaia
   python3 vespa_contacts find thomas
-  python3 vespa_contacts find thomas
+  python3 vespa_contacts find sebastien
 ```
 
 
