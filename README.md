@@ -67,8 +67,9 @@ Scenario: Add another use in my contacts
   Then "I will see the location of that person"
   
 Example:
-  python3 vespa_contacts location gaia
-  python3 vespa_contacts location thomas
+  python3 vespa_contacts find gaia
+  python3 vespa_contacts find thomas
+  python3 vespa_contacts find thomas
 ```
 
 
